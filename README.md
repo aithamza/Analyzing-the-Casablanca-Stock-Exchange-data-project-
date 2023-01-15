@@ -26,9 +26,13 @@ proficient in:
 # PART I : Data Collection 
 
 In our project we will work on the [insurance](https://www.casablanca-bourse.com/bourseweb/indice-composition.aspx?codeIndice=ASSUR&Cat=22&IdLink=304) 
-insurance sector because of its importance in the financial market,
+ sector because of its importance in the financial market,
 and also to analyze the fluctuations that issued during the 2 years between 2020 and 2022, 
 and therefore our sample consists of: **WAFA ASSURANCE**, **SANLAM MOROCCO**,  **AGMA**,  **AFMA**,  **ATLANTASANAD**. 
 
-Here is an overview of the composition of our portfolio (WAFA ASSURANCE, SANLAM MOROCCO,  AGMA,  AFMA,  ATLANTASANAD) :
+Here is an overview of the composition of our portfolio (**WAFA ASSURANCE**, **SANLAM MOROCCO**,  **AGMA**,  **AFMA**,  **ATLANTASANAD**) :
+![Picture title](images/image-20230114-182719.png)
+
+And here we have the evolution of the index of insurance in Casablanca market exchange until 14/01/2023.
+![Picture title](images/image-20230114-183223.png)
 
