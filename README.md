@@ -32,6 +32,6 @@ and therefore our sample consists of: **WAFA ASSURANCE**, **SANLAM MOROCCO**,  *
 
 [Here](https://www.casablanca-bourse.com/bourseweb/indice-composition.aspx?codeIndice=ASSUR&Cat=22&IdLink=304) is an overview of the composition of our portfolio (**WAFA ASSURANCE**, **SANLAM MOROCCO**,  **AGMA**,  **AFMA**,  **ATLANTASANAD**).
 
-And ![here](https://www.casablanca-bourse.com/bourseweb/indice-composition.aspx?codeIndice=ASSUR&Cat=22&IdLink=304) we have the evolution of the index of insurance in Casablanca market exchange until 14/01/2023.
+And [here](https://www.casablanca-bourse.com/bourseweb/indice-composition.aspx?codeIndice=ASSUR&Cat=22&IdLink=304) we have the evolution of the index of insurance in Casablanca market exchange until 14/01/2023.
 
 
