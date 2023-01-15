@@ -35,3 +35,4 @@ and therefore our sample consists of: **WAFA ASSURANCE**, **SANLAM MOROCCO**,  *
 And [here](https://www.casablanca-bourse.com/bourseweb/indice-composition.aspx?codeIndice=ASSUR&Cat=22&IdLink=304) we have the evolution of the index of insurance in Casablanca market exchange until 14/01/2023.
 
 
+
