@@ -2,8 +2,8 @@
 
 
 "Welcome,  we present our project titled "Analyzing The Casablanca Stock Exchange" 
-by Moussa Ait Hamza and Mouad Guedad. Our project is supervised by Pr. Ahmed Ratnani, 
-with co-supervisors Jalal Maaouni & Noureddine Ouhaddou. 
+by **Moussa Ait Hamza** and **Mouad Guedad**. Our project is supervised by **Pr. Ahmed Ratnani**, 
+with co-supervisors **Jalal Maaouni** and **Noureddine Ouhaddou**. 
 
 
 In this project we will gain experience with a real problem, apply the skills that you learned before, and be
